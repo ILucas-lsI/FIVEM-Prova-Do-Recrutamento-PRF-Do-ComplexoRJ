@@ -1,0 +1,92 @@
+body {
+    background: linear-gradient(135deg, #002776, #ffcc00);
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: #ffffff;
+    margin: 10px;
+}
+
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.prftop {
+    width: 20vh;
+}
+
+.questao {
+    margin-bottom: 20px;
+    padding: 10px;
+    color: #ffffff;
+}
+
+.resultado {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    color: #006600;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10vh;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+button:hover {
+    cursor: pointer;
+    color: skyblue;
+}
+
+label {
+    display: block;
+    justify-content: space-between;
+    margin: 5px 0;
+    word-break: break-word;
+    font-size: 14px;
+}
+
+label:hover, input [type="radio"] {
+    cursor: pointer;
+    color: skyblue;
+}
+
+.formulario-container {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.formulario1, .formulario2 {
+    width: 50%;
+    max-width: 450px;
+    box-sizing: border-box;
+}
+
+.res {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    display: flex;
+    height: 25vh;
+}
+
+.lema {
+    display: flex;
+    justify-content: center;
+    color: #002776;
+    font-size: large;
+}
