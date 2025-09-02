@@ -1,25 +1,25 @@
 function corrigir() {
   const respostasCorretas = {
-    q1: 'c',
+    q1: 'a',
     q2: 'a',
-    q3: 'b',
+    q3: 'a',
     q4: 'a',
-    q5: 'c',
-    q6: 'c',
+    q5: 'a',
+    q6: 'a',
     q7: 'a',
-    q8: 'b',
-    q9: 'c',
-    q10: 'c',
-    q11: 'd',
-    q12: 'c',
-    q13: 'd',
-    q14: 'b',
-    q15: 'd',
-    q16: 'c',
-    q17: 'c',
-    q18: 'c',
-    q19: 'c',
-    q20: 'b'
+    q8: 'a',
+    q9: 'a',
+    q10: 'a',
+    q11: 'a',
+    q12: 'a',
+    q13: 'a',
+    q14: 'a',
+    q15: 'a',
+    q16: 'a',
+    q17: 'a',
+    q18: 'a',
+    q19: 'a',
+    q20: 'a'
   };
 
   let nota = 0;

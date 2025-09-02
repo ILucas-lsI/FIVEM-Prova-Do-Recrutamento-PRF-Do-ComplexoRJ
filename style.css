@@ -82,6 +82,7 @@ label:hover, input [type="radio"] {
 .img {
     display: flex;
     height: 25vh;
+    justify-content: center;
 }
 
 .lema {
