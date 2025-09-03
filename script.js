@@ -19,7 +19,9 @@ function corrigir() {
     q17: 'a',
     q18: 'a',
     q19: 'a',
-    q20: 'a'
+    q20: 'a',
+    q21: 'a',
+    q22: 'a',
   };
 
   let nota = 0;
